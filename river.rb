@@ -14,4 +14,4 @@ end
   end
   
 end
-river = River.new = "The Nile"
+rivers = River.new = ("The Nile")
