@@ -14,9 +14,9 @@ end
   end
   
 end
-# rivers1 = River.new = ("The Nile")
-# rivers2 = River.new = ("The Mississippi")
-# rivers3 = River.new = ("The Amazon")
-# rivers4 = River.new = ("The Seine")
-# rivers5 = River.new = ("The Yangtze")
-# rivers6 = River.new = ("The Euphrates")
+rivers1 = River.new = ("The Nile")
+rivers2 = River.new = ("The Mississippi")
+rivers3 = River.new = ("The Amazon")
+rivers4 = River.new = ("The Seine")
+rivers5 = River.new = ("The Yangtze")
+rivers6 = River.new = ("The Euphrates")
