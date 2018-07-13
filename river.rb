@@ -1,6 +1,8 @@
 class River
   attr_accessor :name, :length, :countries, :discharge
   
+  
+  
   def flood
     @discharge = discharge + 1.3
   end
