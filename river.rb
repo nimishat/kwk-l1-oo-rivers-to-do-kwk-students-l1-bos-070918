@@ -2,7 +2,7 @@ class River
   attr_accessor :length, :countries, :discharge
   
   
-  def flood(discharge)
+  def flood
     discharge + 1.3
   end
   
