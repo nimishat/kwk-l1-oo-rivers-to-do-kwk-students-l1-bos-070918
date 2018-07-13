@@ -1,6 +1,9 @@
 class River
+  attr_reader :name
   attr_accessor :length, :countries, :discharge
   
+  def initialize 
+    @name = name
   
   def flood
     @discharge = discharge + 1.3
